@@ -1,2 +1,2 @@
 #!/bin/bash
-pwd\r\n 
+echo -e "pwd\n" 
