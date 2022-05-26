@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u+rwx g+rx o+rx directory
+chmod 755 directory
